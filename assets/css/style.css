@@ -1166,5 +1166,6 @@ section {
 @media (max-width:758px){
   #send, #send2{
     width: 100%;
+    height:45px;
   }
 }
